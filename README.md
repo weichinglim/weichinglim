@@ -1,6 +1,7 @@
 # Wei Ching Lim
 
 ### B.B.A. Business Analytics and Information Systems, University of Iowa
+### B.S. Computer Science
 
 #### Pronouns: she/her/hers
 
